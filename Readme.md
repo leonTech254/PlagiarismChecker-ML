@@ -11,6 +11,9 @@ The repository includes the following sample `.txt` files to demonstrate plagiar
 3. `leonteqsecurity_tech.txt`: LeonteqSecurity's official document about their technology approach.
 4. `leonteqsecurity_cybersecurity.txt`: LeonteqSecurity's official document about their cybersecurity measures.
 
+# Results
+![Plagiarism Checker](snap/results.png)
+
 ## Usage
 
 1. Clone the repository to your local machine:
